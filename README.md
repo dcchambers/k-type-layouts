@@ -1,6 +1,8 @@
 # Input Club K-Type Configuration/Layouts
-The Input Club K-Type Keyboard is an awesome, fully-programmable "75%/TKL" Keyboard.
+The K-Type Keyboard is an awesome, fully-programmable "75%/TKL" Keyboard from the good folks at [Input Club](https://input.club/)
+
 ![](https://input.club/wp-content/uploads/2016/01/k-type-600x400.jpg)
+
 Fully-programmable means you can have the keys do whatever you want *at the firmware level*.
 You don't need to run any software on your machine to get the extra features. The K-Type has 7 function
 layers that you can map different keys to as well if you want to leave your base layer unchanged.
