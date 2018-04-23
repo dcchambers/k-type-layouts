@@ -10,6 +10,8 @@ keyboard to default, press "f1+F2" again. This re-locks it to the main layer.
 
 Want to try a 60% keyboard before buying one? Use this configuration to give the Poker II a test run.
 
+![](../assets/images/new-poker-ii.png)
+
 ### Flashing Your Keyboard
 To use one of these layout profiles, clone this repository to your local machine and navigate
 to the directory from whichever layout profile you want. Then follow
