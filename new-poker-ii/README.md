@@ -7,7 +7,7 @@ Press "f1+F2" (layer-1 key + F2 key) to enter the iKBC New Poker II mode. All th
 the keyboard to a layer 2 I created which is a copy of the Poker II profile. To return your k-type
 keyboard to default, press "f3(Fn)+F2" again. This re-locks it to the main layer.
 
-:bulb: "f1" is the key labeled "Fn" on your keyboard - next to LeftAlt. "F1" is the key labeled "F1" on your keyboard.
+:warning: "f1" is the key labeled "Fn" on your keyboard - next to LeftAlt. "F1" is the key labeled "F1" on your keyboard.
 
 :bulb: To toggle LED animations on/off, press "f1+F5/F6" from the DEFAULT/base layer.
 
