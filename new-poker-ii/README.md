@@ -1,6 +1,7 @@
 # iKBC (New) Poker II
 The new-poker-ii directory contains a [KLL](https://input.club/kll/) firmware layout that emulates the
-iKBR New Poker II keyboard layout + default function layer.
+iKBR New Poker II keyboard layout + default function layer. I also set CAPS to be CTRL by default when in "Poker II mode."
+You can still access CAPS by using "f3(Fn)+CAPS".
 
 The iKBC New Poker II is a "60%" keyboard.
 Press "f1+F2" (layer-1 key + F2 key) to enter the iKBC New Poker II mode. All this does is locks
@@ -9,7 +10,7 @@ keyboard to default, press "f3(Fn)+F2" again. This re-locks it to the main layer
 
 :warning: "f1" is the key labeled "Fn" on your keyboard - next to LeftAlt. "F1" is the key labeled "F1" on your keyboard.
 
-:bulb: To toggle LED animations on/off, press "f1+F5/F6" from the DEFAULT/base layer.
+:bulb: To toggle LED animations on/off, press "f1+F5/F6" from the DEFAULT/main layer.
 
 Want to try a 60% keyboard before buying one? Use this configuration to give the Poker II a test run.
 
