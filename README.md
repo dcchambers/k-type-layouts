@@ -22,6 +22,12 @@ keyboard to default, press "f1+F2" again. This re-locks it to the main layer.
 
 :bulb: You can toggle the LED animation with "f1 (Fn Key) + F5" and "f1 (Fn Key) + F6".
 
+## K-Type Mac Layout
+Make your K-Type work better with your Mac!
+- Swaps Left-Alt/Option with Left-Command.
+- Replaces Menu with Left-Alt/Option.
+- Replaces Left-Alt/Option with Left-Command.
+
 ## Flashing Your Keyboard
 To use one of these layout profiles, clone this repository to your local machine and navigate
 to the directory from whichever layout profile you want. Then follow
